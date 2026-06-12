@@ -37,11 +37,6 @@ void secondApproach(int arr[][4],int key,int n,int m){
         
   
     }
-    
-
-    
-
-
 }
 
 int main(){
